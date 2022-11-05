@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jonathanedev
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1>🐸 Hi, I’m @jonathanedev...</h1>
 
-<!---
-jonathanedev/jonathanedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🎓 I’m a second year at the University of St Andrews studying Comp Sci.
+- 🌱 I’m currently very interested in web dev and have been improving my portfolio.
+- 📫 Check out my website or msg me on discord if you want to collab on anything exciting, jone#0062.
