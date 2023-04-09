@@ -1,4 +1,4 @@
-<h1>🐸 Hi, I’m @jonathanedev...</h1>
+<h1>🐸 Hi, I’m @jonathandedev...</h1>
 
 - 🎓 I’m a second year at the University of St Andrews studying Comp Sci.
 - 🌱 I’m currently very interested in web dev and have been working on my portfolio.
